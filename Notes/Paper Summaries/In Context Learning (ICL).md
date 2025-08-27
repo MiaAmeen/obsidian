@@ -1,0 +1,4 @@
+- paradigm that allows language models to learn tasks given only a few examples in the form of demonstration.
+	- demonstration is written in natural language, makes it an interpretable interface to communicate with LLMs
+	- similar to the decision process of humans learning from analogy
+	- training-free learning framework!
